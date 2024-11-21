@@ -1,6 +1,6 @@
 # Proteinas
-Herman Isaac Lozano Ramirez
-Este tablero interactivo, creado con Streamlit , está diseñado para explorar y visualizar datos estructurales de proteínas utilizando información de la base de datos pública PDB (Protein Data Bank) . La aplicación permite a los usuarios seleccionar características específicas por su identificador (PDB ID) y obtener información detallada y visualizaciones relacionadas con su estructura.
+#Herman Isaac Lozano Ramirez
+#Este tablero interactivo, creado con Streamlit , está diseñado para explorar y visualizar datos estructurales de proteínas utilizando información de la base de datos pública PDB (Protein Data Bank) . La aplicación permite a los usuarios seleccionar características específicas por su identificador (PDB ID) y obtener información detallada y visualizaciones relacionadas con su estructura.
 
 ¿Qué puedes hacer con este tablero?
 -Explorar información básica de proteínas
